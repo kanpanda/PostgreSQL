@@ -1,0 +1,5 @@
+suzuki.takashi@mailsample.jp		D	51
+philip@mailsample.uk		C	26
+hao@mailsample.cn		C	35
+marie@mailsample.fr		D	43
+hoa@mailsample.vn		D	22
